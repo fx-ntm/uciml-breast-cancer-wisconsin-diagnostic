@@ -1,0 +1,6 @@
+numpy
+pandas
+graphviz
+matplotlib
+scikit-learn
+ucimlrepo
